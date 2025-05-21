@@ -12,7 +12,7 @@ Um breve site de uma vinheira chamada Vinheira Agnello, com a intencao da utiliz
 - **Transformações dinâmicas** (expansão de elementos ao interagir)
 - **Submenus interativos** com menu dropdown (produtos)
 
-## 🔗 Links
+## Repositorio
 
-- **Repositório GitHub:** [https://github.com/seuusuario/vinheria-agnello](https://github.com/seuusuario/vinheria-agnello)
-- **GitHub Pages (site publicado):** [https://seuusuario.github.io/vinheria-agnello](https://seuusuario.github.io/vinheria-agnello)
+- **Repositório GitHub: https://github.com/lucasmassoni06/Front-end-CP3.git
+- **GitHub Pages (site publicado): https://github.com/lucasmassoni06/Front-end-CP3
