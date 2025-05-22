@@ -15,4 +15,4 @@ Um breve site de uma vinheira chamada Vinheira Agnello, com a intencao da utiliz
 ## Repositorio
 
 - **Repositório GitHub: https://github.com/lucasmassoni06/Front-end-CP3.git
-- **GitHub Pages (site publicado): https://github.com/lucasmassoni06/Front-end-CP3
+- **GitHub Pages (site publicado): https://lucasmassoni06.github.io/Front-end-CP3/
